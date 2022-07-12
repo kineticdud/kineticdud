@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 I am [Kishan Kumar](https://drive.google.com/file/d/11I7mMLqbEQ99LODX3YIa_wcpv3zXiWao/view?usp=sharing)
 
 <!--
 **kineticdud/kineticdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Contact at: **iamkkumar99@gmail.com**
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kineticdud.kineticdud" />
 
 ## Gtihub Statistics
 
