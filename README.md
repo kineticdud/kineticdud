@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kineticdud.kineticdud" />
 
-## Gtihub Statistics
+## Github Statistics
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=kineticdud&show_icons=true&count_private=true&theme=onedark">
